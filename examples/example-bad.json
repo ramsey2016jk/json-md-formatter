@@ -1,0 +1,9 @@
+{
+  "name": "Sample Project",
+  "items": [1,2,3,],
+  "active": true,
+  "notes": 'This is a sample with single quotes',
+  "extra": {
+    "a": 1,
+  },
+}
